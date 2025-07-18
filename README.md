@@ -1,5 +1,1 @@
-# DSA-CAPSTONE-PROJECT-![CLEANED DATASET](https://github.com/user-attachments/assets/8fdbb01b-ac7c-4ac9-991b-3ab20e1270de)
-![PIVOT TABLE BATCH ONE](https://github.com/user-attachments/assets/ffe8f6a5-a8ba-4d6b-a2f0-aff81b243b3b)
-![PIVOT TABLE-BATCH 2](https://github.com/user-attachments/assets/93c21b6c-395f-490e-8453-123a468e1bd5)
-![PIVOT TABLE BATCH THREE](https://github.com/user-attachments/assets/0b27a467-5a20-40f7-8d8b-729ba8e1c804)
-![AMAZON DASHBOARD](https://github.com/user-attachments/assets/3535f8a9-0dc5-48b3-a666-c687aa877f07)
+
